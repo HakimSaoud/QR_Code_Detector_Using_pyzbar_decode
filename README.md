@@ -37,8 +37,3 @@ This repository contains a **Streamlit**-based application for scanning and proc
 - Hold a QR code in front of the camera.
 - The app will automatically detect the QR code, display its content, and save it to `scanned.txt`.
 - Press **Ctrl + C** in the terminal to stop the application.
-
-├── app.py                 # Main application code
-├── scanned.txt            # File where QR code data is saved
-├── requirements.txt       # Python dependencies
-└── README.md              # Documentation
