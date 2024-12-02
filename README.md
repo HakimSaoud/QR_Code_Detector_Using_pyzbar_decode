@@ -4,6 +4,8 @@ This repository contains a **Streamlit**-based application for scanning and proc
 
 ---
 
+![Qr example](Capture.PNG)
+
 ## Features
 
 - **Automatic Detection**: Continuously scans video frames from the webcam for QR codes.
