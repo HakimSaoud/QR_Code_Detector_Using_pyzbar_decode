@@ -25,7 +25,7 @@ class QRCodeDetector:
                 else:
                     with open("scanned.txt", "w") as f:
                         f.write(qr_data)
-                    return f"**QR Code data saved: {qr_data}**"
+                    return f"QR Code data saved: {qr_data}"
         return "No QR Code detected make sure ur QR Code picture is clear ."
 
 def main():
