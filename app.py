@@ -28,6 +28,8 @@ class QRCodeDetector:
                     return f"QR Code data saved: {qr_data}"
         return "No QR Code detected make sure ur QR Code picture is clear ."
 
+        
+
 def main():
     st.title("QR Code Scanner")
     st.write("Upload an image with a QR code, or use your webcam to scan one!")
